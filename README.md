@@ -1,13 +1,13 @@
 # DjangoForum
 ## Preview
 
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/b78ee0a6-af79-46aa-905e-1cb4cbd37a2c" alt="Home" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/7d9c85ae-f9d0-408e-bf8e-3d7713a1f279" alt="Pagination" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/e796ec1e-2653-4c67-b5ff-7b81bad30593" alt="Profile" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/6e695a0c-9014-4aa9-9e10-f8e36b5a6c18" alt="Post" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/13a2a3bf-2fa6-4e89-97da-5ce47a1a559d" alt="UserPost" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/4a6926de-3272-442b-9a33-d384e3c5469b" alt="Login" width="450px">
-<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/0fe30321-7b2e-4142-8619-d4c05398bb79" alt="Register" width="450px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/6e52b795-b0db-41d5-a0eb-0de65da14500" alt="Home" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/01df8bec-b7f6-4e01-be62-ec32bc7d3cb9" alt="Pagination" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/5de4ce31-441c-4584-a5d6-919ea4e5a5fb" alt="Profile" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/088792b5-0552-4bd0-b994-0f306b2c3798" alt="Post" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/dab6cff9-cdcf-4f71-b6e7-d0df51bcc17f" alt="UserPost" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/4b7085f2-844f-459f-8d10-e3be0d31c97e" alt="Login" width="800px">
+<img src="https://github.com/Nemod22/DjangoForum/assets/32578790/98e34b83-9edd-4ed7-b870-81949c2d9dd2" alt="Register" width="800px">
 
 ## Installation
 1. Clone the repo
